@@ -28,4 +28,4 @@ Please also read our [Terms and Conditions](./terms-and-conditions.md), which go
 
 ## 7. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-daithan.app@gmail.com
+daithan.apps@gmail.com

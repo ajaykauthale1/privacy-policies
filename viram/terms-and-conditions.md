@@ -34,4 +34,4 @@ We reserve the right to modify these Terms at any time. We will provide notice o
 
 ## 9. Contact
 For any questions regarding these Terms, please contact us at:
-daithan.app@gmail.com
+daithan.apps@gmail.com
