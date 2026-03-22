@@ -11,6 +11,7 @@ Privacy Policies and Terms & Conditions for all published apps.
 | App | Privacy Policy | Terms & Conditions |
 |-----|---------------|-------------------|
 | [PocketClinic](#) | [Privacy Policy](./pocketclinic/privacy-policy.md) | [Terms & Conditions](./pocketclinic/terms-and-conditions.md) |
+| [Viram](#) | [Privacy Policy](./viram/privacy-policy.md) | [Terms & Conditions](./viram/terms-and-conditions.md) |
 
 ---
 
