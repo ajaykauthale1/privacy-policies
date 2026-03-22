@@ -24,7 +24,7 @@ Our App does not collect any information from children. Since no data is collect
 We may update our Privacy Policy from time to time. Any changes will be reflected in the "Last Updated" date at the top of this document. We encourage you to review this policy periodically.
 
 ## 6. Terms and Conditions
-Please also read our [Terms and Conditions](./terms-and-conditions.md), which govern your use of the App.
+Please also read our [Terms and Conditions](https://ajaykauthale1.github.io/privacy-policies/viram/terms-and-conditions), which govern your use of the App.
 
 ## 7. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
