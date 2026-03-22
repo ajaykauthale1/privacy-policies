@@ -27,11 +27,11 @@ All software, designs, logos, and materials related to the App are the property 
 We reserve the right to terminate or suspend access to the App at any time, without prior notice or liability, for any reason whatsoever.
 
 ## 7. Governing Law
-These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions.
+These Terms shall be governed by and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.
 
 ## 8. Changes to Terms
 We reserve the right to modify these Terms at any time. We will provide notice of such changes by updating the "Last Updated" date at the top of this document. Continued use of the App after changes constitutes acceptance of the new Terms.
 
 ## 9. Contact
 For any questions regarding these Terms, please contact us at:
-[Your Contact Email/Website]
+daithan.app@gmail.com
