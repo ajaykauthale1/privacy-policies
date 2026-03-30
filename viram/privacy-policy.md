@@ -1,6 +1,6 @@
 # Privacy Policy for Viram
 
-**Last Updated: March 22, 2026**
+**Last Updated: March 30, 2026**
 
 Viram (referred to as "the App," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, and disclosure of your information.
 

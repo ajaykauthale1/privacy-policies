@@ -1,6 +1,6 @@
 # Terms and Conditions for Viram
 
-**Last Updated: March 22, 2026**
+**Last Updated: March 30, 2026**
 
 These Terms and Conditions ("Terms") govern your use of the Viram mobile application ("the App" or "the Service"). By using the App, you agree to these Terms. If you do not agree, do not use the App.
 
