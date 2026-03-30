@@ -10,6 +10,7 @@ Viram is a completely offline application designed for digital wellbeing and scr
 - **Personal Information:** We do not collect, store, or transmit any personally identifiable information (PII) such as your name, email address, phone number, or location.
 - **Usage Data:** All data processed by the App, including app usage statistics, screen time, and custom limits, is stored locally on your device. We do not have access to this data.
 - **Permissions:** The App may request permissions (e.g., Usage Access) to provide its core functionality. These permissions are used solely to process data locally on your device.
+- **Health & Medical Data:** Víram - Focus & Wellbeing does not collect, store, or share any personal health or medical data. All cognitive statistics are processed locally on your device for productivity purposes only. The App does not provide medical advice, and we are not liable for any decisions made based on information displayed in the App.
 
 ## 2. No Third-Party Sharing
 Since we do not collect any data, we do not share, sell, or trade any user information with third parties.
